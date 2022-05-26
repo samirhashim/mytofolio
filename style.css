@@ -1,0 +1,31 @@
+.header{
+    background-color: none;
+    color: white;
+    text-align: center;
+}
+.header p{
+    font-size: 40px;
+    } 
+#social{
+    background-color:none;
+}
+#social ul{
+    list-style: none;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(images/yuvibackground.jpng.jfif);
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.header img{
+    width: 130px;
+    height: 130px;
+}

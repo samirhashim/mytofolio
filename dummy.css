@@ -9,17 +9,15 @@ p{
     margin-left: 400px
     margin-top: 50px
     margin-bottom:90px
-    margin:100px 50px 300px 80px;*/
+    margin:100px 50px 300px 80px*/
 }
 img{
     width: 200px;
     height: 200px;
-    border:2px dashed red
-    border-right: 50%
+    border-left :2px dashed red;
+    border-radius : 50%;
     
 
 }
 body{
-    background-color: blue;
-
-}
+    background-color: white;
